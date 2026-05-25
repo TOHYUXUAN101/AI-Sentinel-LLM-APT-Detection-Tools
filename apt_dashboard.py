@@ -19,7 +19,7 @@ import json
 # ---------------- CONFIG ----------------
 CSV_FILE = "apt_events.csv"
 MAX_EVENTS = 10000
-VT_API_KEY = "887d3dcc967d97b6446e16fc9be160d1f5abffb82c2daefde584d4c980e7f52e"
+VT_API_KEY = "XXXXxxXxXx"
 
 ACTION_TYPES = [
     "login_attempt",
