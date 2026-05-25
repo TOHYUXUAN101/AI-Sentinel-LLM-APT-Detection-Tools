@@ -1,0 +1,800 @@
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] suspicious_endpoint [SEP] suspicious_endpoint [SEP] config_change||Suspicious_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
+login_attempt [SEP] data_read [SEP] config_change [SEP] data_read [SEP] data_exfiltration [SEP] data_exfiltration||Exfiltration_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+login_attempt [SEP] data_read [SEP] data_read [SEP] data_write||Normal
+failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] failed_login [SEP] login_attempt||Credential_Attack
+data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read [SEP] data_read||Beaconing_Attack
